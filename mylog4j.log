@@ -1,0 +1,18 @@
+2017-01-22 09:41:48 FATAL LoggerClass:17 - Fatal message
+2017-01-22 09:41:48 ERROR LoggerClass:18 - Dump error
+2017-01-22 09:41:48 WARN  LoggerClass:19 - Warning baby
+2017-01-22 09:41:48 INFO  LoggerClass:20 - Hello - This is info
+2017-01-22 12:59:30 FATAL MyLoggerClass:17 - Fatal message
+2017-01-22 12:59:30 ERROR MyLoggerClass:18 - Dump error
+2017-01-22 12:59:30 WARN  MyLoggerClass:19 - Warning baby
+2017-01-22 12:59:30 INFO  MyLoggerClass:20 - Hello - This is info
+2017-01-22 13:00:21 FATAL MyLoggerClass:17 - Fatal message
+2017-01-22 13:00:21 ERROR MyLoggerClass:18 - Dump error
+2017-01-22 13:00:21 WARN  MyLoggerClass:19 - Warning baby
+2017-01-22 13:00:21 INFO  MyLoggerClass:20 - Hello - This is info
+2017-01-22 13:00:21 DEBUG MyLoggerClass:22 - Debug message
+2017-01-22 13:00:21 TRACE MyLoggerClass:23 - Trace message
+2017-01-22 13:06:07 FATAL MyLoggerClass:17 - Fatal message
+2017-01-22 13:06:07 ERROR MyLoggerClass:18 - Dump error
+2017-01-22 13:06:07 WARN  MyLoggerClass:19 - Warning baby
+2017-01-22 13:06:07 INFO  MyLoggerClass:20 - Hello - This is info
